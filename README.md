@@ -1,13 +1,8 @@
-![img](C:\Users\Shaik Reshma\AppData\Local\Temp\bbe51661-2667-47ae-8937-dae258684bb5_Navy And White Geometric Technology  LinkedIn Banner.zip.bb5\1.png)
+![image](C:\Users\Shaik Reshma\AppData\Local\Temp\bbe51661-2667-47ae-8937-dae258684bb5_Navy And White Geometric Technology  LinkedIn Banner.zip.bb5\1.png)
 <h1 align="center">Hi 👋, I'm Shreeya Thirunagari</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400px" src="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD">
-
+<img align="right" width="400px" src="https://media0.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47s8jk4d29rt20o5ag59i1k7syefk12c0skymwirgn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreeya-thirunagari&label=Profile%20views&color=0e75b6&style=flat" alt="shreeya-thirunagari" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreeya-thirunagari" alt="shreeya-thirunagari" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Web development**
 
@@ -26,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreeya-thirunagari&show_icons=true&locale=en" alt="shreeya-thirunagari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreeya-thirunagari&" alt="shreeya-thirunagari" /></p>
+
