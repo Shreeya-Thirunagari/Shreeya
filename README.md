@@ -1,4 +1,4 @@
-![image](C:\Users\Shaik Reshma\AppData\Local\Temp\bbe51661-2667-47ae-8937-dae258684bb5_Navy And White Geometric Technology  LinkedIn Banner.zip.bb5\1.png)
+![image](https://github.com/Shreeya-Thirunagari/Shreeya/blob/main/1%5B1%5D.png)
 <h1 align="center">Hi 👋, I'm Shreeya Thirunagari</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" width="400px" src="https://media0.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47s8jk4d29rt20o5ag59i1k7syefk12c0skymwirgn&ep=v1_gifs_search&rid=giphy.gif&ct=g">
